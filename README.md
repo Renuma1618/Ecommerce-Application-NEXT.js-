@@ -13,4 +13,8 @@
 10. Stripe for Payment 
 11. Framer Motion for Animations
 
+####  npx create-next-app@latest ecommerce-application
+####  npm create sanity@latest -- --project 0fm8ezgg --dataset production --template clean --typescript --output-path studio-ecommerce
+#### npm install --save-dev @types/hast @types/react-is @types/unist @types/which
+
 ##### Working on this Project
