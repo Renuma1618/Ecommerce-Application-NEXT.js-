@@ -30,5 +30,7 @@ Declared projectid code for sanity and studio also
     - and create a layout .tsx in studio to seperat ethe backedn and frontend
     - moved page.tsx into store folder
     - remove the bydefault code to setup the project like divs and classnames
+4. Started with header component
+5. imported signinbutton from clerk -redirect to clerk hosted sign-in page by default
 
 ##### Working on this Project
